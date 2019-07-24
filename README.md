@@ -16,8 +16,13 @@ I have used MySQL 5.7 which can downloaded from [here](https://dev.mysql.com/dow
 To install Sequelize, MySQL, Passport and Express you need to run:
 
 `npm init` for initialzing
+
 `npm install express express-session` for installing express
+
 `npm install hbs` for installing Handlebars
+
 `npm install passport passport-local` for installing passport and passport-local means that we will use local storage
+
 `npm install sequelize` for installing sequelize
+
 `npm install mysql2` for installing MySQL2
