@@ -2,7 +2,7 @@
 
 Authentication with Passport.js which is an authentication middleware for Node.js. Read more about it [here](http://www.passportjs.org/)
 
-For frontend, used [Handlebars](https://handlebarsjs.com/) which is templating library for Nodejs.
+For frontend, used [Handlebars](https://handlebarsjs.com/) which is a view engine to render file. Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
 
 Used Sequelize library, Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. With Sequelize, you don't need to write SQL anymore, it allows you create objects. Read about it [here](http://docs.sequelizejs.com/).
 
